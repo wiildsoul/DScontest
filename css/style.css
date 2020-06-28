@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Roboto', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-brand {
+  font-family: 'westfalia';
+  font-size: 2em;
+}
+.embed-header {
+  display:none
+}
+
+p {
+  display: inline-block;
+  width:60vw;
+}
