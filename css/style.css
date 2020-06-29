@@ -13,3 +13,6 @@ p {
   display: inline-block;
   width:60vw;
 }
+.toggler{
+  display: inline-flex;
+}
