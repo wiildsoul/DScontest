@@ -8,9 +8,6 @@ body {
   font-family: 'Press Start 2P', cursive;
   font-size: 2em;
 }
-.embed-header {
-  display:none
-}
 
 p {
   display: inline-block;
